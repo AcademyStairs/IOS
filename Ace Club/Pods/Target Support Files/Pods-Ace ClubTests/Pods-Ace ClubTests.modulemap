@@ -1,6 +1,0 @@
-framework module Pods_Ace_ClubTests {
-  umbrella header "Pods-Ace ClubTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
